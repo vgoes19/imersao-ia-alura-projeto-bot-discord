@@ -12,6 +12,10 @@ O KnowLow2 é um bot de Discord projetado para aprimorar a experiência de jogad
 
 * **Mensagens de Boas-Vindas:** Envia uma mensagem de boas-vindas automática para novos membros do servidor.
 
+## Funcionamento
+
+* **Vídeo de Apresentação:** https://www.youtube.com/watch?v=Rr6hbz2w7zQ
+
 ## Como Usar
 
 1.  **Crie um bot no Discord Developer Portal:**
